@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sotasunohara
+👋 Hi, I’m @sotasunohara
 
 
 <!---
